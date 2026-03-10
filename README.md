@@ -254,6 +254,7 @@ SQL_RETAIL_SALE_ANALYSIS
 # Author
 
 Shlok Singh
+
 Aspiring Data Analyst | SQL | Power BI | Ms Excel | Data Visualization
 
 
