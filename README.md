@@ -254,7 +254,6 @@ SQL_RETAIL_SALE_ANALYSIS
 # Author
 
 Shlok Singh
-
 Aspiring Data Analyst | SQL | Power BI | Ms Excel | Data Visualization
 
 
@@ -269,5 +268,5 @@ Aspiring Data Analyst | SQL | Power BI | Ms Excel | Data Visualization
 
 
 
-Demonstrate practical SQL skills used by Data Analysts.
+
 
