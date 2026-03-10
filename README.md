@@ -241,20 +241,16 @@ Some important insights derived from the analysis:
 # SQL_SCHEMA_STRUCTURE
 ![SQL FOLDER STRUCTURE](https://github.com/shlokGIT/SQL_RETAIL_SALE_ANALYSIS/blob/main/Screenshot%20(411).png?raw=true)
 
-#PROJECT_STRUCTURE
+# PROJECT_STRUCTURE
 
 SQL_RETAIL_SALE_ANALYSIS
-
+```
    |--README.md
-   
    |--SQL-Retail Sales Analysis_utf.csv
-   
    |--SQL_RETAIL_PROJECT.SQL
-
    |--Screenshot(408).png
-   
    |--Screenshot(411).png
-
+```
    
 # Author
 
