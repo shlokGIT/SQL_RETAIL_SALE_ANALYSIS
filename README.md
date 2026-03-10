@@ -25,18 +25,28 @@
 
 The dataset contains retail transaction records with the following fields:
 
-# Column Name	                                   # Description
-transactions_id	                                 Unique ID of each transaction.
-sale_date	                                       Date when the sale occurred.
-sale_time	                                       Time of the transaction.
-customer_id                                    	 Unique ID of customer.
-gender	                                         Gender of customer.
-age	                                             Age of customer.
-category	                                       Product category.
-quantiy                                          Number of items purchased.
-price_per_unit	                                 Price of each unit.
-cogs	                                           Cost of goods sold.
-total_sale	                                     Total sale amount.
+Column Name                               	Data Type	                                                     Description
+transactions_id                             	INT	                                         Unique identifier for each sales transaction
+
+sale_date                                   	DATE	                                       Date on which the sale was made
+
+sale_time	                                    TIME	                                       Time when the transaction occurred
+
+customer_id	                                  INT	                                         Unique ID assigned to each customer
+
+gender	                                      VARCHAR(20)	                                 Gender of the customer making the purchase
+
+age	                                          INT	                                         Age of the customer
+
+category	                                    VARCHAR(20)	                                 Product category purchased (e.g., Clothing,                                                                                                                      Beauty, Electronics)
+
+quantiy                                     	INT	                                         Number of units purchased in the transaction
+
+price_per_unit	                              FLOAT	                                       Price of a single unit of the product
+
+cogs	                                        FLOAT	                                       Cost of goods sold for the product
+
+total_sale	                                  FLOAT	                                       Total revenue generated from the transaction
 
 
 
