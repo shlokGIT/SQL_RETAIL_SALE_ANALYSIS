@@ -22,7 +22,7 @@
 
 
 # DATASET DESCRIPTION
-(Screentshot(408).png)
+![SQL_RETAIL_SALE_ANALYSIS](Screentshot(408).png)
 
 
 
