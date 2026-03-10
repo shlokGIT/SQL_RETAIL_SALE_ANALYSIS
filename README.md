@@ -23,7 +23,7 @@
 
 # DATASET DESCRIPTION
 <p align="center">
-  <img src="screenshots/dashboard.png" width="800">
+  <img src="Screenshot(408).png" width="800">
 </p>
 
 
