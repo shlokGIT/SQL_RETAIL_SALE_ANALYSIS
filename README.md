@@ -22,7 +22,7 @@
 
 
 # DATASET DESCRIPTION
-![SQL_RETAIL_SALE_ANALYSIS](Screentshot(408).png)
+![SQL_RETAIL_SALE_DATASET](https://github.com/shlokGIT/SQL_RETAIL_SALE_ANALYSIS/blob/main/Screenshot%20(408).png?raw=true)
 
 
 
