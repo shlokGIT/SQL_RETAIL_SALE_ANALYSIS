@@ -210,7 +210,42 @@ FROM HOURLY_SALE
 GROUP BY SHIFT;
 ```
 
+# KEY INSIGHTS
 
+Some important insights derived from the analysis:
+
+-Certain product categories generate higher revenue than others.
+
+-A small group of customers contribute significantly to total sales.
+
+-Seasonal monthly trends affect sales performance.
+
+-Different sales shifts (morning/afternoon/evening) show varying transaction volumes.
+
+-Customer demographics such as age and gender influence purchasing behavior.
+
+#TOOLS & TECHNOLOGY USED
+
+-SQL (MySQL).
+
+-Data Cleaning.
+
+-Data Exploration.
+
+-Window Functions.
+
+-Aggregation Functions.
+
+-Business Analysis using SQL.
+
+# SQL_SCHEMA_STRUCTURE
+![SQL FOLDER STRUCTURE] ()
+
+# Author
+
+Shlok Singh
+
+Aspiring Data Analyst | SQL | Power BI | Ms Excel | Data Visualization
 
 
 
