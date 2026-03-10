@@ -22,10 +22,7 @@
 
 
 # DATASET DESCRIPTION
-<p align="center">
-  <img src="Screenshot(408).png" width="800">
-</p>
-
+(Screentshot(408).png)
 
 
 
